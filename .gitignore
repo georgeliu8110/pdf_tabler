@@ -4,3 +4,6 @@ __pycache__/
 *.log
 dist/
 pdf convertion testing.pdf
+*.pdf
+*.xlsx
+~$*.xlsx
